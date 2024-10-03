@@ -5,17 +5,6 @@ import { useEffect } from "react";
 
 const Home = () => {
 
-  /* useEffect(()=> {
-    onAuthStateChanged(auth, (user)=> {
-      if (user) {
-        window.sessionStorage.setItem("accessToken", user.accessToken);
-      } else {
-        window.sessionStorage.removeItem("accessToken");
-      }
-    })
-  },[]) */
-  
-
   return (
     <Base>
       <h1>
