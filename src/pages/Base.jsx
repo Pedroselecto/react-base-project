@@ -1,6 +1,6 @@
 import Header from "../components/Header/Header";
 
-const Base = (props) => (
+const Base = ( props ) => (
   <>
     <Header />
     <div className="container">
